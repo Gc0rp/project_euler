@@ -1,0 +1,6 @@
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\bin\Debug\fibSequence.exe.config
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\bin\Debug\fibSequence.exe
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\bin\Debug\fibSequence.pdb
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\obj\Debug\fibSequence.csprojResolveAssemblyReference.cache
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\obj\Debug\fibSequence.exe
+C:\Users\102542177\Documents\SharpDevelop Projects\fibSequence\fibSequence\obj\Debug\fibSequence.pdb
